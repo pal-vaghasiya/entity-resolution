@@ -1,0 +1,22 @@
+# Dataset
+6ab10eb3b23ba_student_resource/
+
+# Outputs (Generated TSVs, model outputs, etc)
+output/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
