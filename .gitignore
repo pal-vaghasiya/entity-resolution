@@ -4,6 +4,11 @@
 # Outputs (Generated TSVs, model outputs, etc)
 output/
 
+# Problem Statement & Competition Info
+*.pdf
+Master_Antigravity_Prompt*
+Documentation_template.md
+
 # Python caches
 __pycache__/
 *.pyc
